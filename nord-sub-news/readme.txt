@@ -1,7 +1,7 @@
 === Nord Sub News ===
-Contributors: Nord
+Contributors: Nord07
 Tags:mail, email, newsletter, subscribe, list, mailinglist, mail list, mailing list, campaignmonitor, mailchimp, constant contact, subscriber, subscribers, email marketing, marketing, widget, post, plugin, admin, posts, sidebar, page, pages
-Requires at least: 4.3
+Requires at least: 5.1
 Tested up to: 5.1
 Requires PHP: 5.3
 Stable tag: 1.0
